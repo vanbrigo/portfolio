@@ -1,3 +1,43 @@
-/* .portfolioDesign{
-  background-color: rgb(185, 67, 67);
-} */
+.portfolioDesign {
+  height: auto;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  background-color:#363b3e;
+  padding: 0;
+  margin: 0;
+}
+.rowDesign{
+  display: flex;
+  align-items: flex-start;
+}
+.fistBoxHome{
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 3em;
+}
+.firstInsideBox{
+  margin-top: 2em;
+  margin-left: 3em;
+  color:darkgrey;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nameDesign{
+  font-size: 4.5em;
+  color:rgb(233, 236, 240);
+}
+.developerDesign{
+  font-size: 3.5em;
+}
+.secondInsideBox{
+  margin-top: 6em;
+  margin-left: 3em;
+}
+.socialMedia{
+}
