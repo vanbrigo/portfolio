@@ -25,12 +25,12 @@
 .firstInsideBox{
   margin-top: 2em;
   margin-left: 3em;
-  color:darkgrey;
+  color:#a9a9a9;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.nameDesign{
+.nameDesign, .tecDesign{
   font-size: 4.5em;
-  color:rgb(233, 236, 240);
+  color:#e9ecf0;
 }
 .developerDesign{
   font-size: 3.5em;
@@ -39,5 +39,22 @@
   margin-top: 6em;
   margin-left: 3em;
 }
-.socialMedia{
+.stackDesign{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.tecInside{
+  width: 60em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  /* background-color: aqua; */
+  line-height: 2em;
+  font-size: 1.5em;
+}
+
+
