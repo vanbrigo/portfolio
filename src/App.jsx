@@ -55,24 +55,23 @@ function App() {
             <div>
               <h2>Backend</h2>
               <div>
-              <img width="30" height="30" src="https://img.icons8.com/ios/30/1A1A1A/php-logo.png" alt="php-logo"/> PHP<br/>
-                Laravel<br/>
-                SQL<br/>
-                MySQL<br/>
-                Node.js<br/>
-                Express<br/>
-                MongoDB<br/>
+              <img width="30" height="30" src="https://img.icons8.com/ios/30/e9ecf0/php-logo.png" alt="php-logo"/> PHP<br/>
+              <img width="30" height="30" src="https://img.icons8.com/ios/30/e9ecf0/laravel.png" alt="laravel"/> Laravel<br/>
+              <img width="30" height="30" src="https://img.icons8.com/external-outline-juicy-fish/30/e9ecf0/external-sql-coding-and-development-outline-outline-juicy-fish.png" alt="external-sql-coding-and-development-outline-outline-juicy-fish"/> SQL<br/>
+              <img width="30" height="30" src="https://img.icons8.com/material-rounded/30/e9ecf0/mysql-logo.png" alt="mysql-logo"/> MySQL<br/>
+              <img width="30" height="30" src="https://img.icons8.com/windows/30/e9ecf0/node-js.png" alt="node-js"/> Node.js<br/>
+              <img width="30" height="30" src="https://img.icons8.com/ios/30/e9ecf0/express-js.png" alt="express-js"/> Express<br/>
+              <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/30/e9ecf0/external-mongodb-a-cross-platform-document-oriented-database-program-logo-light-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-light-tal-revivo"/> MongoDB<br/>
               </div>
             </div>
             <div>
               <h2>Herramientas</h2>
               <div>
-                Git<br/>
-                GitHub<br/>
-                ThunderClient<br/>
-                Postman<br/>
-                Docker<br/>
-                Deploy AWS<br/>
+              <img width="30" height="30" src="https://img.icons8.com/ios/30/e9ecf0/git.png" alt="git"/> Git<br/>
+              <img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/30/e9ecf0/github.png" alt="github"/> GitHub<br/>
+              <img width="30" height="30" src="https://img.icons8.com/wired/30/e9ecf0/postman-api.png" alt="postman-api"/> Postman<br/>
+              <img width="30" height="30" src="https://img.icons8.com/fluency-systems-regular/30/e9ecf0/docker.png" alt="docker"/> Docker<br/>
+              <img width="30" height="30" src="https://img.icons8.com/windows/30/e9ecf0/amazon-web-services.png" alt="amazon-web-services"/> Deploy AWS<br/>
               </div>
             </div>
           </div>
