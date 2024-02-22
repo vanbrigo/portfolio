@@ -45,6 +45,7 @@
   justify-content: center;
   flex-direction: column;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  animation:scale-up-vertical-bottom 0.4s linear} @keyframes scale-up-vertical-bottom{0%{transform:scaleY(.4);transform-origin:center bottom}100%{transform:scaleY(1);transform-origin:center bottom}
 }
 .tecInside{
   width: 60em;
@@ -56,5 +57,15 @@
   line-height: 2em;
   font-size: 1.5em;
 }
-
+.socialMedia:hover{
+  cursor: pointer;
+}
+.studiesDesign{
+  height: 30em;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 

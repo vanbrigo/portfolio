@@ -13,24 +13,27 @@ function App() {
           </div>
           <div className="secondInsideBox">
             <div className="socialMedia">
+              <a href="https://www.linkedin.com/in/vanessabritogonzalez/" target="_blank" rel="noopener noreferrer">
               <img
                 width="50"
                 height="50"
                 src="https://img.icons8.com/ios/50/F2F8F8/linkedin.png"
                 alt="linkedin"
-              /><br/>
+              /></a><br/>
+              <a href="https://github.com/vanbrigo" target="_blank" rel="noopener noreferrer">
               <img
                 width="50"
                 height="50"
                 src="https://img.icons8.com/glyph-neue/64/F2F8F8/github.png"
                 alt="github"
-              /><br/>
+              /></a><br/>
+              <a href="mailto:vanessabritogonzalez@gmail.com" title="Envíame un correo">
               <img 
                 width="50" 
                 height="50" 
                 src="https://img.icons8.com/ios/50/F2F8F8/mail.png" 
                 alt="mail"
-              />
+              /></a>
             </div>
           </div>
         </div>
@@ -75,6 +78,14 @@ function App() {
               </div>
             </div>
           </div>
+        </div>
+      </Row>
+      <Row className="rowDesign">
+        <div className="studiesDesign">
+          <h2>Formacion academica</h2>
+        </div>
+        <div className="studiesDesign">
+          <h2></h2>
         </div>
       </Row>
     </Container>
