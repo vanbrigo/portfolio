@@ -25,8 +25,17 @@
 .firstInsideBox{
   margin-top: 2em;
   margin-left: 3em;
+  letter-spacing: 0.2em;
   color:#a9a9a9;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.selfieBox{
+  width: auto;
+  height: 25em;
+}
+.firstInside{
+  display: flex;
+  flex-direction: row;
 }
 .nameDesign, .tecDesign{
   font-size: 4.5em;
@@ -40,6 +49,7 @@
   margin-left: 3em;
 }
 .stackDesign{
+  letter-spacing: 0.2em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -48,7 +58,7 @@
   animation:scale-up-vertical-bottom 0.4s linear} @keyframes scale-up-vertical-bottom{0%{transform:scaleY(.4);transform-origin:center bottom}100%{transform:scaleY(1);transform-origin:center bottom}
 }
 .tecInside{
-  width: 60em;
+  width: 50em;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -56,22 +66,23 @@
   /* background-color: aqua; */
   line-height: 2em;
   font-size: 1.5em;
+  margin-bottom: 7em;
 }
 .socialMedia:hover{
   cursor: pointer;
 }
 .studiesDesign{
-  height: 30em;
+  height: 40em;
   width: 50vw;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-start;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .studiesBoxOne,.studiesBoxTwo {
   padding-left: 5em;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.2em;
   font-size: larger;
 }
 
