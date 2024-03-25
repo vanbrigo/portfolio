@@ -82,7 +82,17 @@ function App() {
       </Row>
       <Row className="rowDesign">
         <div className="studiesDesign">
-          <h2>Formacion academica</h2>
+          <div className="studiesBoxOne">
+             <h2>Formacion academica</h2>
+          </div>
+          <div className="studiesBoxOne">
+             <h3>Bootcamp Full Stack Developer - Geekhubs Academy</h3>
+             <h3>2024 Valencia, España</h3>
+          </div>
+          <div className="studiesBoxTwo">
+          <h3>Grado en Marketing - Universidad Rodolfo Loero Arismendi</h3>
+             <h3>2015 Barcelona, Venezuela</h3>
+          </div>
         </div>
         <div className="studiesDesign">
           <h2></h2>
