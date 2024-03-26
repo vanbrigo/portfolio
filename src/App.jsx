@@ -263,6 +263,21 @@ function App() {
         </div>
         <div className="studiesDesign"></div>
       </Row>
+      <Row className="rowDesign">
+        <div className="proyectsBox">
+           <div className="proyectBox">
+           </div>
+           <div className="proyectBox">
+           </div>
+           <div className="proyectBox">
+           </div>
+           <div className="proyectBox">
+           </div>
+           <div className="proyectBox">
+           </div>
+        </div>
+        
+      </Row>
     </Container>
   );
 }
