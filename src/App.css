@@ -86,7 +86,7 @@
   font-size: larger;
 }
 .proyectsBox{
-  background-color: coral;
+  background-color: rgb(192, 190, 189);
   height: auto;
   width: 100vw;
   display: grid;
@@ -97,7 +97,13 @@
   padding: 2em;
 }
 .proyectBox{
-  background-color: blueviolet;
+  background-color: rgb(112, 109, 114);
   width: 25em;
   height: 30em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 0.2em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
+

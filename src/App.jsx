@@ -7,12 +7,12 @@ function App() {
       <Row className="rowDesign">
         <div className="fistBoxHome">
           <div className="firstInside">
-          <div className="firstInsideBox">
-            <div className="hiDesign">Hola, soy...</div>
-            <div className="nameDesign">Vanessa Brito.</div>
-            <div className="developerDesign">Web developer.</div>
-          </div>
-          {/* <div className="firstInsideBox">
+            <div className="firstInsideBox">
+              <div className="hiDesign">Hola, soy...</div>
+              <div className="nameDesign">Vanessa Brito.</div>
+              <div className="developerDesign">Web developer.</div>
+            </div>
+            {/* <div className="firstInsideBox">
             <img
             className="selfieBox"
             src="../src/assets/yo-animada.png"
@@ -265,18 +265,19 @@ function App() {
       </Row>
       <Row className="rowDesign">
         <div className="proyectsBox">
-           <div className="proyectBox">
-           </div>
-           <div className="proyectBox">
-           </div>
-           <div className="proyectBox">
-           </div>
-           <div className="proyectBox">
-           </div>
-           <div className="proyectBox">
-           </div>
+          <div className="proyectBox">
+            <h2>Mastermind - <br/>Juego online</h2>
+          </div>
+          <div className="proyectBox">
+            <h2>Tattoo Studio - <br/>Sistema de gestion de citas</h2>
+          </div>
+          <div className="proyectBox">
+            <h2>Xpenses - <br/>Control y registro de gastos personales</h2>
+          </div>
+          <div className="proyectBox"></div>
+          <div className="proyectBox"></div>
+          <div className="proyectBox"></div>
         </div>
-        
       </Row>
     </Container>
   );
